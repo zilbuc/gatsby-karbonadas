@@ -23,7 +23,6 @@ class NavbarHeader extends Component {
   }
 
 }
-// const mainYellow = '#d2aa5c';
 
 const HeaderWrapper = styled.div`
   padding: 0.4rem 1rem;
@@ -44,7 +43,6 @@ const HeaderWrapper = styled.div`
       display: none;
     }
   }
-
 `;
 
 export default NavbarHeader;

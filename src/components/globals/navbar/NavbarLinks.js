@@ -74,7 +74,6 @@ const LinksWrapper = styled.ul`
     margin: 0 auto;
     .nav-link:hover {
       background: ${styles.colors.mainWhite};
-      ${'' /* color: ${styles.colors.mainGrey}; */}
       padding-left: 1rem;
     }
   }
