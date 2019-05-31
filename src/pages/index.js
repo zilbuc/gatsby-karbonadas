@@ -7,6 +7,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import QuickInfo from '../components/HomePageComponents/QuickInfo';
 import Gallery from '../components/HomePageComponents/Gallery2';
+import Menu from '../components/HomePageComponents/Menu';
 
 const IndexPage = () => (
   <Layout>
@@ -18,6 +19,7 @@ const IndexPage = () => (
     </HomeHeader>
     <QuickInfo />
     <Gallery />
+    <Menu />
   </Layout>
 )
 
