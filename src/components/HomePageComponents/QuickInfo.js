@@ -33,6 +33,9 @@ export const QuickInfoWrapper = styled.div`
   .link {
     text-decoration: none;
   }
+  .gatsby-image-wrapper {
+    margin: 0 auto;
+  }
   @media (min-width: 768px) {
     width: 70%;
   }

@@ -21,7 +21,7 @@ const GET_IMAGES = graphql`
   }
 `
 
-const imageInfo = [ 'Awesome Pizza', 'Awesome Pork', 'Awesome Steak'];
+const imageInfo = [ 'Awesome Steak', 'Awesome Pork', 'Awesome Pizza' ];
 
 const Gallery = ({}) => {
   return (
