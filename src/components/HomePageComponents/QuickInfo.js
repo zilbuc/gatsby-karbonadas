@@ -22,7 +22,7 @@ class QuickInfo extends Component {
 
 }
 
-const QuickInfoWrapper = styled.div`
+export const QuickInfoWrapper = styled.div`
   width: 90%;
   margin: 2rem auto;
   .text {
